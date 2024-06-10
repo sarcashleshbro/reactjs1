@@ -1,0 +1,20 @@
+/* Analytics.module.css */
+.page-title {
+	font-size: 2em;
+	color: #eb1010;
+	margin-bottom: 1em;
+  }
+  
+  .form-container {
+	max-width: 400px;
+	margin: 0 auto;
+	padding: 1em;
+	background-color: #04ba56;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+  }
+  
+  .form-field {
+	margin-bottom: 1em;
+  }
+  

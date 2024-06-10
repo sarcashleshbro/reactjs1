@@ -1,0 +1,13 @@
+.pageTitle {
+	font-size: 2em;
+	color: #333;
+	margin-bottom: 1em;
+  }
+  
+  .homeContent {
+	padding: 1em;
+	background-color: #e00303;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+  }
+  
