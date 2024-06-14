@@ -1,0 +1,31 @@
+nav {
+	background: #0066cc;
+	color: white;
+	padding: 1em;
+	width: 100vw; /* Use viewport width to ensure full width */
+	box-sizing: border-box; /* Include padding and border in width calculation */
+  }
+  
+  nav ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	display: flex;
+	justify-content: space-evenly;
+	width: 100%; /* Ensure ul spans full width of nav */
+  }
+  
+  nav ul li {
+	margin-right: 1em;
+  }
+  
+  nav ul li a {
+	color: white;
+	text-decoration: none;
+  }
+  
+  nav ul li a:hover {
+	text-decoration: underline;
+  }
+  
+  

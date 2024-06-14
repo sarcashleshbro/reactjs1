@@ -1,0 +1,29 @@
+.navBar {
+	background-color: #333;
+	padding: 10px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+  }
+  
+  .title {
+	color: white;
+	font-size: 24px;
+	font-family: 'Roboto', sans-serif;
+  }
+  
+  .navLinks {
+	list-style: none;
+	display: flex;
+  }
+  
+  .navLinks li {
+	margin-left: 20px;
+  }
+  
+  .navLinks a {
+	color: white;
+	text-decoration: none;
+	font-size: 18px;
+  }
+  

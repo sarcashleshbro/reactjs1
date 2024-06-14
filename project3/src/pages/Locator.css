@@ -1,0 +1,25 @@
+.locator {
+	text-align: center;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	background-image: url('/assets/background.jpg'); /* Replace with your background image */
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: #333; /* Darker text color */
+  }
+  
+  .locator h1 {
+	margin-bottom: 1em;
+  }
+  
+  .leaflet-container {
+	width: 80%;
+	height: 80vh; /* Adjust the height as needed */
+	max-width: 100%;
+	margin: 2em auto;
+  }
+  
+  

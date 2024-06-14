@@ -1,0 +1,16 @@
+.locator {
+	padding: 20px;
+	background-color: #f0f4f8;
+	min-height: 100vh;
+  }
+  
+  .pageTitle {
+	font-size: 2.5em;
+	color: #2c3e50;
+	text-align: center;
+	margin-bottom: 20px;
+	font-family: 'Roboto', sans-serif;
+  }
+  
+  
+  

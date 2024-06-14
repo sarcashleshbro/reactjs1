@@ -1,0 +1,23 @@
+/* src/styles/App.css */
+
+/* Reset some basic elements */
+body, h1, h2, h3, p, ul {
+	margin: 0;
+	padding: 0;
+  }
+  
+  /* Body styles */
+  body {
+	font-family: 'Roboto', sans-serif;
+	background-color: #f0f4f8;
+	color: #2c3e50;
+	line-height: 1.6;
+  }
+  
+  /* Container to wrap content */
+  .container {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 20px;
+  }
+  

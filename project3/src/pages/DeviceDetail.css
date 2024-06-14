@@ -1,0 +1,39 @@
+body {
+	background: url('/assets/background.jpg') no-repeat center center fixed;
+	background-size: cover;
+	margin: 0;
+	font-family: Arial, sans-serif;
+  }
+  
+  .device-detail {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 20px;
+  }
+  
+  h1 {
+	color: #333;
+  }
+  
+  .charts-grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 20px;
+	width: 100%;
+	max-width: 1600px;
+  }
+  
+  .chart-container {
+	width: 100%;
+	max-width: 800px;
+	background: white;
+	padding: 10px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+	border-radius: 8px;
+  }
+  
+  
+  
+  
