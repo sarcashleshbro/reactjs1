@@ -1,0 +1,37 @@
+.about {
+	padding: 2em;
+	max-width: 800px;
+	margin: 0 auto;
+	color: #e0e0e0;
+  }
+  
+  .about h1 {
+	color: #00ff00;
+	text-align: center;
+	margin-bottom: 1em;
+  }
+  
+  .about-content {
+	background-color: #2a2a2a;
+	padding: 2em;
+	border-radius: 10px;
+	box-shadow: 0 0 20px rgba(0, 255, 0, 0.1);
+  }
+  
+  .about-content p {
+	margin-bottom: 1em;
+	line-height: 1.6;
+  }
+  
+  .about-content ul {
+	list-style-type: none;
+	padding-left: 20px;
+  }
+  
+  .about-content ul li:before {
+	content: '•';
+	color: #00ff00;
+	display: inline-block;
+	width: 1em;
+	margin-left: -1em;
+  }
